@@ -7,10 +7,10 @@ npm i --legacy-peer-deps
 # commands
 
 - dev build
-npm run build:dev
+```npm run build:dev```
 
 - production build
-npm run build:prod
+```npm run build:prod```
 
 - dev server
-npm run dev
+```npm run dev```
