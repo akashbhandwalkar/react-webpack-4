@@ -7,7 +7,7 @@ install the legacy peer dependancies as webpack 4 doesn't support some of them.
 # commands
 
 - dev build
-- 
+
 ```npm run build:dev```
 
 - production build
